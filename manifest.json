@@ -1,0 +1,9 @@
+{
+  "name": "Mini App Far",
+  "description": "Mini app deployed on Monad testnet for Warpcast",
+  "app_url": "https://mini-app-far.vercel.app",
+  "icon": "https://mini-app-far.vercel.app/images/icon.png",
+  "developer": {
+    "name": "pi02gi"
+  }
+}
